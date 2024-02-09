@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #fd8f00 ;
-    --secondary: #5F656F;
+    --primary: #FBB816;
+    --secondary: #A5A7AB;
     --light: #F5F5F5;
-    --dark: #29040a;
+    --dark: #030303;
 }
 
 .back-to-top {
@@ -196,7 +196,7 @@ h6,
     bottom: 0;
     display: flex;
     align-items: center;
-    background: linear-gradient(to right, #1c2221 0%, rgba(2, 36, 91, 0) 100%);
+    background: linear-gradient(to right, #030303 0%, #030303a8 100%);
     z-index: 1;
 }
 
